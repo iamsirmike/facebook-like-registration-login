@@ -1,0 +1,24 @@
+<div class="navbar-collapse collapse" id=".navbar-collapse">
+              <ul class="nav navbar-nav navbar-right">
+                <li class="username">
+            	<p>E-mail or phone:<p>
+            		<form>
+            	<input type="text" placeholder="">
+           			 </form>
+            </li>
+                <li class="password"><p>Password:<p>
+            		<form>
+            	<input type="text" placeholder="">
+           			 </form></li>
+
+           	<li class="login">
+           		<p></p><br>
+           		<p></p>
+
+           		<form>
+           			<button>Log in</button>
+            	</form>
+            	</li>
+                
+              </ul>
+            </div>

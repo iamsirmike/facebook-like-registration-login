@@ -1,0 +1,179 @@
+ * {
+  	padding: 0;
+  	margin: 0;
+  }
+
+  body {
+  	overflow-x: hidden;
+  	font-family: 'open Sans', 'sans-serif';
+  	text-rendering:optimizeLegibility !important;
+  	-webkit-font-smoothing: antialiased !important;
+  	padding-top: 40px; 	
+  }
+
+.navbar{
+	background-color: #365899 !important;
+	height: 12%;
+	position: absolute !important;
+
+}
+
+.navbar-brand{
+	margin-top: 10px;
+	color: #ffffff !important;
+	font-size: 45px;
+	display: block;
+}
+.navbar p{
+	padding-bottom: 3px;	
+	font-style: 12px;
+}
+.navbar-collapse p{
+	color: white;
+
+}
+.username{
+	margin-top: 5px;
+}
+.password{
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.header{
+	margin-top: 10px;
+	height: 500px;
+	width: 100%;
+	
+	
+}
+.header h1{
+	margin-top: 30px;
+}
+.header img{
+	margin-top: 90px;
+	margin-left: 100px;
+
+}
+.login{
+	margin-left: 10px;
+	color: white;
+
+}
+.login button{
+	background-color: #365899;
+}
+
+.message{
+	color: #3b5998;
+	font-size: 28px;
+    line-height: 30px;
+    margin-left: 100px;
+    margin-top: 15px;
+    text-align: center;
+    width: 300px;
+    word-spacing: -1px;
+}
+
+.sm{
+	color: #1d2129;
+    font-family: "Freight Sans Pro Book","Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+    margin-left: 100px;
+    margin-top: 15px;
+    text-align: center;
+    width: 300px;
+    word-spacing: -1px;
+}
+.signup{
+	color: #1d2129;
+}
+.sms{
+	display: block;
+	font-size: 36px;
+	font-weight: bold;
+	color: #333;
+	font-family: inherit;
+
+}
+.signup h1{
+	margin-top: 90px;
+	padding-left: 50px;
+}
+.signup p{
+	padding-left: 50px;
+}
+.para{
+	color: #1d2129;
+	font-size: 19px;
+}
+.registration_form{
+	padding-left: 50px;
+}
+.registration_form input{
+	text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 13.3333px Arial;
+}
+.firstname, .lastname{
+	width: 188px;
+	font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+}
+.mailorphone, .Npassword{
+	border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    width: 376px;
+    font-size: 18px;
+    padding: 8px 10px;
+ }
+
+ /* table css */
+ table{
+ 	margin-top: 10px;
+ }
+ label{
+ 	color: white;
+ }
+ button{
+ 	background-color: #365899;
+ 	color: white;
+ 	margin-left: 5px;
+ }
+.pass{
+	margin-left: 10px;
+}
+/* end the table */
+.btn{
+	  padding: 8px 10px;
+	  margin-top: 7px;
+	  border-radius: 5px !important;
+ }
+.tms{
+	margin-top: 12px;
+	color: #333;
+}
+.female{
+	margin-left: 15px;
+
+}
+/*footer */
+.footer{
+	margin-top: 100px;
+	
+}
+.footer p{
+	text-align: center;
+}
